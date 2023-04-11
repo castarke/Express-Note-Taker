@@ -29,19 +29,8 @@
 ## Usage
   Within this app you can write notes, reminders, or anything that you want to get off your mind. you can see the screenshots as well as the heroku link below.
 ## Credits
-  Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at castarke@gmail.com
-## Test
-  
-
-  
+  Any and all collaboration is welcome so if you have any suggestions or thoughts for new features, please send me an email at castarke@gmail.com  
  ## License 
 
    
  This project is licensed under the Apache_2.0 license. 
-
-
-## Questions 
-
-  Please reach out via email to my email address: castarke@gmail.com
-
-  Please also visit my Github Repo at github.com/castarke
