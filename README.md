@@ -43,7 +43,9 @@
   To use this application, open up the integrated terminal within VScode. To start this app, you will need to run npm install then npm run start and navigate to thee local host. this app is also hosted on Heroku.
 ## Usage
   Within this app you can write notes, reminders, or anything that you want to get off your mind. you can see the screenshots as well as the heroku link below.
+  
   Heroku Link: https://frozen-thicket-85448.herokuapp.com/
+  
   Screenshot: ![image](https://user-images.githubusercontent.com/122697165/231067061-996b496e-051b-4083-8440-7e6aae3bfef6.png)
 
   
