@@ -3,23 +3,41 @@
 
   ## Table of Contents
 -Develop
+
   -db
+  
     -db.json
+    
 -public
+
   -css
+  
     -styles.css
+    
   -js
+  
     -index.js
+    
 -index.html
+
 -notes.html
+
 -routes
+
   -apiRoutes.js
+  
   -htmlRoutes.js
+  
 -package-lock.json
+
 -package.json
+
 -server.js
+
 -.gitignore
+
 -license
+
 -README.md
 
 ## Description:
