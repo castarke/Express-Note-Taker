@@ -26,6 +26,9 @@
   In this project you will use an Express server to create a note taking application. Within this application you will be able to create and delete notes at any moment.
 ## Installation
   To use this application, open up the integrated terminal within VScode. To start this app, you will need to run npm install then npm run start and navigate to thee local host. this app is also hosted on Heroku.
+  
+  ![image](https://user-images.githubusercontent.com/122697165/231051210-3ee46696-bc45-424d-825a-ccbb46536baf.png)
+
 ## Usage
   Within this app you can write notes, reminders, or anything that you want to get off your mind. you can see the screenshots as well as the heroku link below.
 ## Credits
