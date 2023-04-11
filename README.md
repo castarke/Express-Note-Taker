@@ -2,43 +2,43 @@
   ![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
 
   ## Table of Contents
--Develop
+    -Develop
 
-  -db
+      -db
   
-    -db.json
+        -db.json
     
--public
+      -public
 
-  -css
+        -css
   
-    -styles.css
+          -styles.css
     
-  -js
+        -js
   
-    -index.js
+          -index.js
     
--index.html
+      -index.html
 
--notes.html
+      -notes.html
 
--routes
+      -routes
 
-  -apiRoutes.js
+        -apiRoutes.js
   
-  -htmlRoutes.js
+        -htmlRoutes.js
   
--package-lock.json
+      -package-lock.json
 
--package.json
+      -package.json
 
--server.js
+      -server.js
 
--.gitignore
+      -.gitignore
 
--license
+      -license
 
--README.md
+      -README.md
 
 ## Description:
   In this project you will use an Express server to create a note taking application. Within this application you will be able to create and delete notes at any moment.
