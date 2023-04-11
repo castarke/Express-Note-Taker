@@ -12,5 +12,5 @@ app.use(express.static('public'))
 app.use('/api',api)
 app.use('/', html)
 
-// starts a server 
+// starts a server
 app.listen(PORT,()=>console.log(`Listening on Port ${PORT}`))

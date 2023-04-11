@@ -8,7 +8,7 @@ const { v4: uuidv4 } = require('uuid');
 router.get('/notes',(req,res)=>{
   let data = fs.readFileSync(path.join(__dirname,'../db/db.json'),'utf8');
     res.send(JSON.parse(data))
-})
+});
 
 // post function to modify and send data to the server. Also adds UUID to each individual note
 router.post('/notes', (req,res)=>{
@@ -23,7 +23,7 @@ router.post('/notes', (req,res)=>{
     notes.push(newNote);
     fs.writeFileSync(path.join(__dirname, '../db/db.json') ,JSON.stringify(notes));
     res.send(newNote);
-})
+});
 
 // delete function to delete previously entered notes via id
 router.delete('/notes/:id', (req, res) => {
@@ -35,5 +35,5 @@ router.delete('/notes/:id', (req, res) => {
     res.json({ msg: 'deleted successfully' });
   });
 
-  // exporting api routes
+  // exporting api
 module.exports = router;
